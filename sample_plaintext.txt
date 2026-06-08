@@ -1,0 +1,4 @@
+BIT4138 Advanced Cryptography
+Week 4: AES Block Cipher Lab
+This file demonstrates AES file encryption.
+Student practical logbook entry.
